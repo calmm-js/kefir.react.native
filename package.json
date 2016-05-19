@@ -1,7 +1,7 @@
 {
   "name": "kefir.react.native",
   "version": "0.1.0",
-  "description": "JSX with Kefir, healthy?",
+  "description": "Native JSX with Kefir, healthy?",
   "main": "lib/kefir.react.native.js",
   "scripts": {
     "dist": "babel src --source-maps inline --out-dir lib",
